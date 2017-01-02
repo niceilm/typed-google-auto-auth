@@ -1,0 +1,10 @@
+{
+  "name": "google-auto-auth",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/stephenplusplus/google-auto-auth",
+  "version": "0.5.2",
+  "global": true,
+  "dependencies": {},
+  "globalDependencies": {
+  }
+}
